@@ -11,7 +11,7 @@ As data center development accelerates to support AI and other applications, San
 - **Edwards Aquifer Zones** — boundary data provided by the Edwards Aquifer Authority
 
 ## Screenshot
-
+![datacenters_screencapture.jpeg](datacenters_screencapture.jpeg)
 
 ## Data Sources & Methodology
 
