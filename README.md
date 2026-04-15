@@ -60,6 +60,14 @@ pymupdf
 ...
 ```
 
+## Setup & Usage
+1. Download repository
+2. Adjust directory folder name, as preferred
+3. Set up environment and download required libraries
+4. Consider whether file / data updates are needed from Edwards Aquifer Authority, CPS energy or other as detailed and due to the passage of time
+5. Run 'san_antonio-data_centers.py' to produce an html file with the data center locations
+6. Run 'build_map_aquifer_overlay.py' to update the html file with the Edwards Aquifer zones and the CPS service area boundary as overlays on the map
+
 ## Notes on AI Collaboration
 AI tools were used to collaborate on and guide portions of this project,
 particularly the PDF extraction pipeline and geospatial processing
