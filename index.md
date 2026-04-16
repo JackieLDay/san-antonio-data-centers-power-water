@@ -11,4 +11,4 @@ As data center development accelerates to support AI and other applications, San
 - **Edwards Aquifer Zones** — boundary data provided by the Edwards Aquifer Authority
 
 ## Output
-![Link to Output Map File](https://JackieLDay.github.io/san-antonio-data-centers-power-water/index.html)
+![Link to Output Map File](https://JackieLDay.github.io/san-antonio-data-centers-power-water/docs/index.html)
