@@ -13,6 +13,9 @@ As data center development accelerates to support AI and other applications, San
 ## Screenshot
 ![datacenters_screencapture.jpeg](datacenters_screencapture.jpeg)
 
+## HTML Output file
+![datacenters.html](datacenters.html)
+
 ## Data Sources & Methodology
 
 ### OpenStreetMap
