@@ -14,7 +14,7 @@ As data center development accelerates to support AI and other applications, San
 ![datacenters_screencapture.jpeg](datacenters_screencapture.jpeg)
 
 ## Output
-![Link to Output Map File](https://JackieLDay.github.io/san-antonio-data-centers-power-water/docs/index.html)
+![Link to Output Map File](https://JackieLDay.github.io/san-antonio-data-centers-power-water/docs/datacenters.html)
 
 ## Data Sources & Methodology
 
